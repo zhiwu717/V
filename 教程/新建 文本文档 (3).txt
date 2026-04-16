@@ -1,0 +1,1 @@
+https://sub.coo.homes/api/v1/client/subscribe?token=1e6d0e836721eef4c4647951605f586a
